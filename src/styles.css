@@ -1,0 +1,15 @@
+
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+* {
+  font-family: system-ui;
+
+}
+
+hr {
+  color: black !important;
+}
+
+:root{
+  --main-color: #ffc107;
+}
